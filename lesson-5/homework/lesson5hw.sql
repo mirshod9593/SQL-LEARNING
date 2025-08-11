@@ -1,5 +1,3 @@
-create table products(productname varchar(50))
-
 1.  SELECT ProductName as Name FROM Products;
 2.  SELECT * FROM Customers AS Client;
 3.  SELECT ProductName FROM Products
